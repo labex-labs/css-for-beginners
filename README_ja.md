@@ -1,0 +1,49 @@
+# 初心者向け CSS
+
+## 言語
+
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![初心者向け CSS](https://cover-creator.labex.io/css-for-beginners.png?lang=ja)](https://labex.io/ja/courses/css-for-beginners)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/css-for-beginners)
+
+この初心者向けコースでは、基本的なセレクターから最新のユーティリティまで、必須の CSS コンセプトを網羅します。Web ページのスタイリング、ボックスモデルの理解、レイアウトの実装、そして Tailwind CSS のようなモダンな CSS フレームワークの活用方法を学びましょう。
+
+![CSS](https://img.shields.io/badge/CSS-whitesmoke?style=for-the-badge&logo=css)
+
+
+## 演習
+
+|   インデックス | 名前                                         | 難易度   | 練習                                                                                                                 |
+|----------------|----------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖 🆓 CSS 入門とリンク                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-introduction-and-linking-598030'>ラボを開始</a>       |
+|              2 | 📖 🆓 CSS セレクターの基本                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-selectors-basics-598033'>ラボを開始</a>               |
+|              3 | 📖 🆓 CSS テキストスタイリング               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-text-styling-598036'>ラボを開始</a>                   |
+|              4 | 📖 🆓 CSS の色と背景                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-colors-and-backgrounds-598029'>ラボを開始</a>         |
+|              5 | 📖 🆓 CSS ボックスモデル                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-box-model-598028'>ラボを開始</a>                      |
+|              6 | 📖  CSS レイアウトの基本                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-layout-basics-598031'>ラボを開始</a>                  |
+|              7 | 📖  CSS リストのスタイリング                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-styling-lists-598034'>ラボを開始</a>                  |
+|              8 | 📖  CSS によるテーブルのスタイリング         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-styling-tables-598035'>ラボを開始</a>                 |
+|              9 | 📖  Tailwind によるモダン CSS ユーティリティ | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/css-css-modern-utilities-with-tailwind-598032'>ラボを開始</a> |
+
+## 環境
+
+LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
+
+![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
+
+- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
+- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
+- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
+- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
+
+詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+
+## その他
+
+- 🔗 [CSS プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [CSS 無料チュートリアル](https://github.com/labex-labs/css-free-tutorials)
+
