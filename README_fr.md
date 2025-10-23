@@ -15,21 +15,21 @@ Ce cours accessible aux débutants couvre les concepts essentiels du CSS, des s�
 
 ## Exercices
 
-|   Index | Nom                                        | Difficulté   | Pratique                                                                                                                   |
-|---------|--------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Introduction et liaison CSS          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-introduction-and-linking-598030'>Commencer le Lab</a>       |
-|       2 | 📖 🆓 Bases des sélecteurs CSS             | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-selectors-basics-598033'>Commencer le Lab</a>               |
-|       3 | 📖 🆓 Stylisation de texte CSS             | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-text-styling-598036'>Commencer le Lab</a>                   |
-|       4 | 📖 🆓 Couleurs et Arrière-plans CSS        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-colors-and-backgrounds-598029'>Commencer le Lab</a>         |
-|       5 | 📖 🆓 Modèle de boîte CSS                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-box-model-598028'>Commencer le Lab</a>                      |
-|       6 | 📖  Bases de la mise en page CSS           | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-layout-basics-598031'>Commencer le Lab</a>                  |
-|       7 | 📖  Stylisation de listes CSS              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-styling-lists-598034'>Commencer le Lab</a>                  |
-|       8 | 📖  Stylisation de tableaux CSS            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-styling-tables-598035'>Commencer le Lab</a>                 |
-|       9 | 📖  Utilitaires CSS Modernes avec Tailwind | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/css-css-modern-utilities-with-tailwind-598032'>Commencer le Lab</a> |
+|   Index | Nom                                        | Difficulté   | Pratique                                                                                                                                       |
+|---------|--------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Introduction et liaison CSS          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-introduction-and-linking-598030?course=css-for-beginners'>Commencer le Lab</a>       |
+|       2 | 🧩 🆓 Bases des sélecteurs CSS             | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-selectors-basics-598033?course=css-for-beginners'>Commencer le Lab</a>               |
+|       3 | 🧩 🆓 Stylisation de texte CSS             | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-text-styling-598036?course=css-for-beginners'>Commencer le Lab</a>                   |
+|       4 | 🧩 🆓 Couleurs et Arrière-plans CSS        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-colors-and-backgrounds-598029?course=css-for-beginners'>Commencer le Lab</a>         |
+|       5 | 🧩 🆓 Modèle de boîte CSS                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-box-model-598028?course=css-for-beginners'>Commencer le Lab</a>                      |
+|       6 | 🧩  Bases de la mise en page CSS           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-layout-basics-598031?course=css-for-beginners'>Commencer le Lab</a>                  |
+|       7 | 🧩  Stylisation de listes CSS              | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-styling-lists-598034?course=css-for-beginners'>Commencer le Lab</a>                  |
+|       8 | 🧩  Stylisation de tableaux CSS            | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-styling-tables-598035?course=css-for-beginners'>Commencer le Lab</a>                 |
+|       9 | 🧩  Utilitaires CSS Modernes avec Tailwind | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/css-css-modern-utilities-with-tailwind-598032?course=css-for-beginners'>Commencer le Lab</a> |
 
 ## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
+[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
