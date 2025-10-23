@@ -15,21 +15,21 @@ This beginner-friendly course covers essential CSS concepts from basic selectors
 
 ## Exercises
 
-|   Index | Name                                   | Difficulty   | Practice                                                                                                         |
-|---------|----------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 CSS Introduction and Linking     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-introduction-and-linking-598030'>Start Lab</a>       |
-|       2 | 📖 🆓 CSS Selectors Basics             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-selectors-basics-598033'>Start Lab</a>               |
-|       3 | 📖 🆓 CSS Text Styling                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-text-styling-598036'>Start Lab</a>                   |
-|       4 | 📖 🆓 CSS Colors and Backgrounds       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-colors-and-backgrounds-598029'>Start Lab</a>         |
-|       5 | 📖 🆓 CSS Box Model                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-box-model-598028'>Start Lab</a>                      |
-|       6 | 📖  CSS Layout Basics                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-layout-basics-598031'>Start Lab</a>                  |
-|       7 | 📖  CSS Styling Lists                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-styling-lists-598034'>Start Lab</a>                  |
-|       8 | 📖  CSS Styling Tables                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-styling-tables-598035'>Start Lab</a>                 |
-|       9 | 📖  CSS Modern Utilities with Tailwind | Beginner     | <a target='_blank' href='https://labex.io/tutorials/css-css-modern-utilities-with-tailwind-598032'>Start Lab</a> |
+|   Index | Name                                   | Difficulty   | Practice                                                                                                                             |
+|---------|----------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 CSS Introduction and Linking     | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-introduction-and-linking-598030?course=css-for-beginners'>Start Lab</a>       |
+|       2 | 🧩 🆓 CSS Selectors Basics             | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-selectors-basics-598033?course=css-for-beginners'>Start Lab</a>               |
+|       3 | 🧩 🆓 CSS Text Styling                 | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-text-styling-598036?course=css-for-beginners'>Start Lab</a>                   |
+|       4 | 🧩 🆓 CSS Colors and Backgrounds       | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-colors-and-backgrounds-598029?course=css-for-beginners'>Start Lab</a>         |
+|       5 | 🧩 🆓 CSS Box Model                    | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-box-model-598028?course=css-for-beginners'>Start Lab</a>                      |
+|       6 | 🧩  CSS Layout Basics                  | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-layout-basics-598031?course=css-for-beginners'>Start Lab</a>                  |
+|       7 | 🧩  CSS Styling Lists                  | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-styling-lists-598034?course=css-for-beginners'>Start Lab</a>                  |
+|       8 | 🧩  CSS Styling Tables                 | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-styling-tables-598035?course=css-for-beginners'>Start Lab</a>                 |
+|       9 | 🧩  CSS Modern Utilities with Tailwind | Beginner     | <a target='_blank' href='https://labex.io/labs/css-css-modern-utilities-with-tailwind-598032?course=css-for-beginners'>Start Lab</a> |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
