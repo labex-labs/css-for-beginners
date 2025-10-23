@@ -15,21 +15,21 @@
 
 ## 练习
 
-|   序号 | 名称                                  | 难度   | 练习                                                                                                               |
-|--------|---------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 CSS 简介与链接                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-introduction-and-linking-598030'>开始实验</a>       |
-|      2 | 📖 🆓 CSS 选择器基础                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-selectors-basics-598033'>开始实验</a>               |
-|      3 | 📖 🆓 CSS 文本样式                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-text-styling-598036'>开始实验</a>                   |
-|      4 | 📖 🆓 CSS 颜色和背景                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-colors-and-backgrounds-598029'>开始实验</a>         |
-|      5 | 📖 🆓 CSS 盒子模型                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-box-model-598028'>开始实验</a>                      |
-|      6 | 📖  CSS 布局基础                      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-layout-basics-598031'>开始实验</a>                  |
-|      7 | 📖  CSS 列表样式设计                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-styling-lists-598034'>开始实验</a>                  |
-|      8 | 📖  CSS 表格样式                      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-styling-tables-598035'>开始实验</a>                 |
-|      9 | 📖  使用 Tailwind 掌握现代 CSS 工具类 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/css-css-modern-utilities-with-tailwind-598032'>开始实验</a> |
+|   序号 | 名称                                  | 难度   | 练习                                                                                                                                   |
+|--------|---------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 CSS 简介与链接                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-introduction-and-linking-598030?course=css-for-beginners'>开始实验</a>       |
+|      2 | 🧩 🆓 CSS 选择器基础                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-selectors-basics-598033?course=css-for-beginners'>开始实验</a>               |
+|      3 | 🧩 🆓 CSS 文本样式                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-text-styling-598036?course=css-for-beginners'>开始实验</a>                   |
+|      4 | 🧩 🆓 CSS 颜色和背景                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-colors-and-backgrounds-598029?course=css-for-beginners'>开始实验</a>         |
+|      5 | 🧩 🆓 CSS 盒子模型                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-box-model-598028?course=css-for-beginners'>开始实验</a>                      |
+|      6 | 🧩  CSS 布局基础                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-layout-basics-598031?course=css-for-beginners'>开始实验</a>                  |
+|      7 | 🧩  CSS 列表样式设计                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-styling-lists-598034?course=css-for-beginners'>开始实验</a>                  |
+|      8 | 🧩  CSS 表格样式                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-styling-tables-598035?course=css-for-beginners'>开始实验</a>                 |
+|      9 | 🧩  使用 Tailwind 掌握现代 CSS 工具类 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/css-css-modern-utilities-with-tailwind-598032?course=css-for-beginners'>开始实验</a> |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
